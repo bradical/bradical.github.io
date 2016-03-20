@@ -2,11 +2,16 @@ $font-family:'Roboto', sans-serif;
 
 body {
   background: #ffffff;
-  color: rgba(0,0,0,0.87);
+  // color: rgba(0,0,0,0.87);
+  color: rgba(#000,0.87);
   font-family: $font-family;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-  font-size: 24px;
+  font-weight: 300;
+  font-size: 1.6em;
+}
+
+ul.social {
+
 }

@@ -4,5 +4,9 @@ body {
   font-family: "Roboto", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-  font-size: 24px; }
+  font-weight: 300;
+  font-size: 1.6em; }
+
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IkFBRUEsSUFBSztFQUNILFVBQVUsRUFBRSxPQUFPO0VBRW5CLEtBQUssRUFBRSxtQkFBZTtFQUN0QixXQUFXLEVBTkEsb0JBQVE7O0FBU3JCLHNCQUF1QjtFQUNyQixXQUFXLEVBQUUsR0FBRztFQUNoQixTQUFTLEVBQUUsS0FBSyIsInNvdXJjZXMiOlsic3R5bGVzLnNjc3MiXSwibmFtZXMiOltdLCJmaWxlIjoic3R5bGVzLm1pbi5jc3MiLCJzb3VyY2VSb290IjoiL3NvdXJjZS8iLCJzb3VyY2VzQ29udGVudCI6WyIkZm9udC1mYW1pbHk6J1JvYm90bycsIHNhbnMtc2VyaWY7XG5cbmJvZHkge1xuICBiYWNrZ3JvdW5kOiAjZmZmZmZmO1xuICAvLyBjb2xvcjogcmdiYSgwLDAsMCwwLjg3KTtcbiAgY29sb3I6IHJnYmEoIzAwMCwwLjg3KTtcbiAgZm9udC1mYW1pbHk6ICRmb250LWZhbWlseTtcbn1cblxuaDEsIGgyLCBoMywgaDQsIGg1LCBoNiB7XG4gIGZvbnQtd2VpZ2h0OiAzMDA7XG4gIGZvbnQtc2l6ZTogMS42ZW07XG59XG5cbnVsLnNvY2lhbCB7XG5cbn1cbiJdfQ== */
