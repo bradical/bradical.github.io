@@ -76,7 +76,7 @@ a {
       li {
         display: inline-block;
         list-style: none;
-        &:after { content: "|"; padding: 0 .5em; }
+        &:not(:last-child):after { content: "|"; padding: 0 .5em; }
       }
     }
   }
